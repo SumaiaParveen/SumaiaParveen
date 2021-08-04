@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sumaia
 
-Being a quick learner who takes pride in my work, I am always looking for new and creative ways to solve problems and bring an analytical approach to understanding and utilizing data.
+Being a quick learner who takes pride in work, I am always looking for new and creative ways to solve problems and bring an analytical approach to understanding and utilizing data.
 
 - 🌱 I’m currently working on Machine Learning projects based in Python!
 
