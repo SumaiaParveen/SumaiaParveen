@@ -10,4 +10,13 @@ Being a quick learner who takes pride in work, I am always looking for new and c
 - 🐘 SQL
 - 📈 Tableau, Power BI, Flourish
 
- ![Sumaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiaParveen&theme=dark&show_icons=true)
+
+<br />
+
+<details>
+  <summary>Stats</summary>
+  <br>
+  
+  ![Sumaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiaParveen&theme=dark&show_icons=true)
+  
+</details>
